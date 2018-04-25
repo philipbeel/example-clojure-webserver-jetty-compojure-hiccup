@@ -1,5 +1,3 @@
-[![Build Status](https://circleci.com/gh/philipbeel/example-typescript-nyc-mocha-coverage.svg?&style=shield&circle-token=d766b5ba41f74c9d35cb0cd08d48aa321c42bc26)](https://circleci.com/gh/philipbeel/example-typescript-nyc-mocha-coverage)
-
 # example-clojure-webserver-jetty-compojure-hiccup
 
 Example Clojure project that implements a webserver with basic routing and templating capability using Jetty, Compojure, and Hiccup
